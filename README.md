@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Philipp. 
+I work at Mercedes-Benz Group AG
+
+
 <!--
 **BytePhilHD/BytePhilHD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
