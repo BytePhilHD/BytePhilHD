@@ -2,8 +2,10 @@
 
 My name is Philipp. 
 - I work at Mercedes-Benz Group AG
-- I mostly use Java and some C#
-- Check out my current projects [Repositories](https://github.com/BytePhilHD?tab=repositories)
+- I mostly use Java, C# and a bit Python
+- Check out my current [projects](https://github.com/BytePhilHD?tab=repositories)
+
+[![GitHub Satats](https://github-readme-stats.vercel.app/api/top-langs/?username=BytePhilHD&layout=compact&theme=radical)](https://github.com/BytePhilHD)
 
 
 <!--
