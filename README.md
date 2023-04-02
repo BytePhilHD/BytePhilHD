@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Philipp. 
-- I work at Mercedes-Benz Group AG
+- I work at Mercedes-Benz AG
 - I mostly use Java, C# and a bit Python
 - Check out my current [projects](https://github.com/BytePhilHD?tab=repositories)
 
